@@ -5,7 +5,8 @@
 <h1 align="center">Hi 👋, I'm Abhijeet Rojatkar</h1>
 
 ## About Me :wave:
-<a href="https://twitter.com/mvanshika23" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/abhi1045/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
+<!-- <a href="https://twitter.com/mvanshika23" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a> -->
+<a href="https://www.linkedin.com/in/abhi1045/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 
 - 🔭 I’m currently working on [Machine Learning](https://github.com/vanshika230/Machine-Learning)
 
