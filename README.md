@@ -8,9 +8,9 @@
 <!-- <a href="https://twitter.com/mvanshika23" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a> -->
 <a href="https://www.linkedin.com/in/abhi1045/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 
-- 🔭 I’m currently working on [Machine Learning](https://github.com/vanshika230/Machine-Learning)
+- 🔭 I’m currently working on  Machine Learning  <!--[some word for link](https://github.com/vanshika230/Machine-Learning) -->
 
-- 🌱 Currently learning **Machine Learning Algorithms**
+<!-- - 🌱 Currently learning **Machine Learning Algorithms** -->
 
 - 👯 I’m looking to collaborate on Machine Learning  <!--[some word for link](https://github.com/vanshika230/Machine-Learning) -->
 
