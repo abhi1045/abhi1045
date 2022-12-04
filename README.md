@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhi1045](https://github.com/abhi1045)
 
-- 💬 Ask me about **Python, Numpy, Pandas, Seaborn, Matplotlib, Beautiful Soup, Selenium, Machine Learning Algorithms**
+- 💬 Ask me about **Python, Numpy, Pandas, Seaborn, Matplotlib, sklearn, pydantic, Machine Learning Algorithms**
 
 <!-- - 📫 How to reach me **abhi.rojatkar@gmail.com** -->
 
