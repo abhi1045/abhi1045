@@ -44,7 +44,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi1045&" alt="abhi1045" /></p>
 
 ## Talk is cheap, show me the code ✅
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhi1045&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhi1045&theme=dracula)]
 
 
 <!--(https://activity-graph.herokuapp.com/graph?username=abhi1045&theme=react-dark&hide_border=true&area=true) -->
