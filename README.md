@@ -46,7 +46,7 @@
 <!-- This activity graph I get from https://github.com/Ashutosh00710/github-readme-activity-graph  -->
 
 ## Talk is cheap, show me the code ✅
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhi1045&theme=dracula)]
+![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhi1045&theme=dracula)
 
 
 <!--(https://activity-graph.herokuapp.com/graph?username=abhi1045&theme=react-dark&hide_border=true&area=true) -->
