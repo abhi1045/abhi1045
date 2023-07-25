@@ -44,8 +44,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi1045&" alt="abhi1045" /></p>
 
 ## Talk is cheap, show me the code ✅
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=abhi1045&theme=react-dark&hide_border=true&area=true)
-https://github-readme-stats.vercel.app/api?username=abhi1045&show_icons=true&count_private=true&theme=react
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-stats.vercel.app/api?username=abhi1045&show_icons=true&count_private=true&theme=react)
+
+
+<!--(https://activity-graph.herokuapp.com/graph?username=abhi1045&theme=react-dark&hide_border=true&area=true) -->
 
 <!-- ### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 
