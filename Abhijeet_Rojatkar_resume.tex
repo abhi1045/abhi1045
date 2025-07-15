@@ -1,0 +1,255 @@
+%-------------------------
+% Resume in Latex
+% Author : Abhijeet Rojatkar
+% Based off of: https://github.com/sb2nov/resume
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{fontawesome5}
+\usepackage{multicol}
+\setlength{\multicolsep}{-3.0pt}
+\setlength{\columnsep}{-1pt}
+\input{glyphtounicode}
+
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.6in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1.19in}
+\addtolength{\topmargin}{-.7in}
+\addtolength{\textheight}{1.4in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large\bfseries
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\classesList}[4]{
+    \item\small{
+        {#1 #2 #3 #4 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \textbf{\small #2} \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeOrgheading}[2]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \textbf{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{1.001\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & \textbf{\small #2}\\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemi{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.0in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING----------
+\begin{center}
+    {\Huge \scshape ABHIJEET ROJATKAR} \\ \vspace{1pt}
+    \small \raisebox{-0.1\height}\faPhone\ +91-8149316295 ~ \href{mailto:abhi.rojatkar@gmail.com}{\raisebox{-0.2\height}\faEnvelope\  \underline{abhi.rojatkar@gmail.com}} ~
+    \href{https://www.linkedin.com/in/abhi1045/}{\raisebox{-0.2\height}\faLinkedin\ \underline{linkedin.com/in/abhi1045/}}  ~
+    \href{https://www.abhi1045.github.io}{\raisebox{-0.2\height}\faGithub\ \underline{abhi1045.github.io}}
+    \vspace{-8pt}
+\end{center}
+
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {National Institute of Technology Karnataka (NITK)}{Oct 2020 - May 2022}
+      {Masters of Technology, Power and Energy Systems}{CGPA - 8.82 ($2^{nd}$ Rank)}
+      % \resumeItemListStart
+      %   \resumeItem{Thesis - Non-Intrusive Load Monitoring (NILM).}
+      % \resumeItemListEnd
+    \resumeSubheading
+      {College of Engineering, Pune (COEP)}{Aug 2015 - Jul 2019}
+      {Bachelors of Technology, Electrical Engineering}{CGPA - 6.21}
+      % \resumeItemListStart
+      %   \resumeItem{Project - Analysis of IEEE 16 and 33 bus system on MATLAB}
+      % \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+
+%-----------TECHNICAL SKILLS-----------
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+      \textbf{Languages}{: Python, JavaScript, R, C, C++} \\
+      \textbf{Frameworks/Libraries}{: Django, FastAPI, React, Node.js, Pydantic, Jinja2, MATLAB, Simulink} \\
+      \textbf{Cloud/DevOps}{: AWS, GCP, Terraform, Docker, Kubernetes, Shell Scripting, Jenkins, Git} \\
+      \textbf{Databases}{: PostgreSQL, MySQL, MongoDB, Redis} \\
+      \textbf{Concepts/Tools}{: Machine Learning, Data Structures \& Algorithms (DSA), ETL, Superset, Retool, Arduino, AWS CloudWatch, AWS EventBridge, AWS EMR, Fivetran, Hubspot, M2P, Signzy, Syntizen} \\
+    }}
+ \end{itemize}
+ \vspace{-16pt}
+
+
+%-----------PROFESSIONAL EXPERIENCE-----------
+\section{Professional Experience}
+  \resumeSubHeadingListStart
+
+    \resumeOrgheading
+      {Urbint - Software Developer II - Bangalore, Karnataka, India}{Nov 2024 -- Present}
+      \resumeItemListStart
+        \resumeItem{Implemented a POC on converting form’s HTML to PDF using Jinja2 and FastAPI endpoint.}
+        \resumeItem{Pioneered scalable Pre-Population architecture across all customizable form fields, utilizing asyncio for asynchronous operations and MongoDB for data persistence and querying.}
+      \resumeItemListEnd
+
+    \resumeOrgheading
+      {Karbon Business - Software Engineer I - Bangalore, Karnataka, India}{August 2022 -- Oct 2024}
+      \resumeItemListStart
+        \resumeItem{Developed and deployed a Credit Score model on AWS Lambda, significantly improving credit card application processing speed (5 days to 30 minutes). Additionally, devised a pre-qualification methodology targeting corporate clients, resulting in a 40\% reduction in marketing expenses.}
+        \resumeItem{Integrated CIBIL model with Credit Score model to increase reliability.}
+        \resumeItem{Implemented a fraud detection model utilizing pydantic to detect and follow fraud in real time.}
+        \resumeItem{Upgraded existing merchant name extraction model using FastAPI and ML libraries and deployed it using AWS EC2 to group approximately lakhs of merchants into a few hundreds.}
+        \resumeItem{Built a churn model using different ML models to pre-identify potential churn customers, directly impacting revenue.}
+        \resumeItem{Proposed and implemented interactive analytics, i.e., a forex dashboard featuring multiple charts like pie, bar, funnel, MoM, etc., using Superset on AWS (ECS and RDS) to facilitate data-driven customer targeting strategies.}
+        \resumeItem{Automated the stamp application on documents task by implementing a user-friendly application which reduces the time from 45 minutes to a few seconds.}
+        \resumeItem{Automated the deployment process on AWS of any stack using Terraform, reducing deployment time by 50\%.}
+        \resumeItem{Migrated cards application, reducing deployment cost by 30\%, which included setup of ECS, ECR, EC2, VPN, RDS, S3, Lambda, and achieving scalability within a few weeks.}
+        \resumeItem{Managed the development lifecycle of a prepaid card application; employed Django and React for efficient development and integrated M2P, Signzy, and Syntizen APIs for enhanced functionalities.}
+        \resumeItem{Designed and implemented a robust database schema for the Kite Finance application and utilized Retool to streamline development processes, resulting in a rapid product launch.}
+        \resumeItem{Implemented Global Data Architecture which collects data from Hubspot (CRM tool) and builds data pipelines using Fivetran.}
+        \resumeItem{Owned and executed the entire Payout and Prepaid Card Program.}
+        \resumeItem{Built Document Management microservice for low-latency file uploads with real-time progress tracking for Korefi and updated metadata using PostgreSQL DB and FastAPI.}
+        \resumeItem{For Korefi, engineered Sync microservice for cross-service data aggregation and status via EventBridge/SQS.}
+      \resumeItemListEnd
+
+    \resumeOrgheading
+      {Virtue Tech Inc. - Data Engineer - Remote, India}{December 2021 -- July 2022}
+      \resumeItemListStart
+        \resumeItem{Promoted the use of YAML script for CI/CD, which quickly accelerated deployments and bug fixes on Git.}
+        \resumeItem{Composed 2 AWS CloudWatch Dashboards and Alarms for monitoring resources.}
+        \resumeItem{Introduced AWS Lambda along with AWS EventBridge to trigger it using a set of rules.}
+        \resumeItem{Implemented, triggered, and diagnosed AWS EMR clusters for pulling data from on-premises data warehouses to AWS S3.}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+\vspace{-16pt}
+
+
+%-----------PROJECTS-----------
+% \section{Project}
+%  \resumeSubHeadingListStart
+%     \resumeProjectHeading
+%       {Project Title One $|$ Django, PSQL, AWS}{\href{https://github.com/yourusername/projectone}{\small\faGithub\ GitHub Link}}
+%       \resumeItemListStart
+%         \resumeItem{Brief description of the project and your role. Highlight technologies used and impact/results.}
+%         \resumeItem{Another key achievement or feature of the project.}
+%       \resumeItemListEnd
+%     \resumeProjectHeading
+%       {Project Title Two}{\href{https://github.com/yourusername/projecttwo}{\small\faGithub\ GitHub Link}}
+%       \resumeItemListStart
+%         \resumeItem{Description for project two.}
+%       \resumeItemListEnd
+%   \resumeSubHeadingListEnd
+% \vspace{-16pt}
+
+
+%-----------CERTIFICATES and TRAINING-----------
+\section{Certificates and Training}
+  \resumeSubHeadingListStart
+    \resumeOrgheading
+      {COURSERA - IBM Data Science Professional Certificate}{March 2022}
+      \resumeItemListStart
+        \resumeItem{A 10-Course Certificate including Tools for Data Science, Data Scraping, Data Visualization, Machine Learning, and a Capstone Project.}
+      \resumeItemListEnd
+    \resumeOrgheading
+      {IIT Kanpur - Applied Data Science and Machine Learning}{June 2020}
+      \resumeItemListStart
+        \resumeItem{Flagship training and internship program in Machine Learning and Data Science.}
+      \resumeItemListEnd
+  \resumeSubHeadingListStart
+
+%-----------ACHIEVEMENTS-----------
+\section{Achievements}
+  \resumeSubHeadingListStart
+    \resumeSubSubheading{Hackerrank}{}
+      \resumeItemListStart
+        
+        \resumeItem{5 star in Python, 5 star in Problem Solving, and 4 star in SQL.}
+      \resumeItemListEnd
+  \resumeSubHeadingListStart
+
+\end{document}
