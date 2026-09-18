@@ -16,14 +16,11 @@
 
 ## What I Do
 
-I build **distributed, event-driven backends** in Python on AWS and GCP — the kind of systems that
-quietly move hundreds of thousands of payloads a day without waking anyone up at 3am.
+I build **distributed, event-driven backends** in Python on AWS and GCP — systems that move **200K+ payloads/day** at **99.9% reliability**, without the 3am pages.
 
-- ⚙️ **Async infrastructure at scale** — Celery + Redis pipelines with circuit breakers and distributed locks, processing **200K+ payloads/day** across microservices at **99.9% reliability**
-- ☁️ **Cloud & cost engineering** — Terraform-driven infrastructure across ECS and RDS, cutting cloud spend by **30%** with no availability tradeoff
-- 📊 **Observability by default** — Datadog APM and Sentry instrumentation that cut latency **30%** and mean-time-to-detection **50%**
-- 🔌 **API architecture** — unified GraphQL layers, multi-cloud storage abstractions, and REST services replacing redundant cross-service calls
-- 🤖 **AI systems** — RAG pipelines with vector search, LLM integration, and NLP data extraction over millions of records
+- ⚙️ **Backend & APIs** — Celery + Redis pipelines with circuit breakers and distributed locks; GraphQL, REST, and multi-cloud storage layers that cut redundant cross-service calls
+- ☁️ **Cloud, cost & reliability** — Terraform across ECS and RDS ( **30%** lower spend ), plus Datadog and Sentry that cut latency **30%** and mean-time-to-detection **50%**
+- 🤖 **Applied AI** — RAG with vector search, LLM integration, and NLP extraction over millions of records
 
 ## Tech Stack
 
@@ -37,7 +34,7 @@ quietly move hundreds of thousands of payloads a day without waking anyone up at
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
-### Frameworks
+<!-- ### Frameworks
 
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -50,61 +47,41 @@ quietly move hundreds of thousands of payloads a day without waking anyone up at
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
   <img src="https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=swagger&logoColor=white" alt="REST API" />
   <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" alt="OpenAPI" />
-</p>
+</p> -->
 
-### Cloud
+### Cloud & Data
 
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP" />
-</p>
-
-### Databases
-
-<p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" alt="Pinecone" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
 </p>
 
-### Architecture
+### Architecture & Platform
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
   <img src="https://img.shields.io/badge/Microservices-0F766E?style=flat-square&logo=apachekafka&logoColor=white" alt="Microservices" />
   <img src="https://img.shields.io/badge/Event--Driven-6D28D9?style=flat-square&logo=apacheairflow&logoColor=white" alt="Event-Driven" />
   <img src="https://img.shields.io/badge/System%20Design-1F2937?style=flat-square&logo=buffer&logoColor=white" alt="System Design" />
   <img src="https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white" alt="OAuth2" />
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
   <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white" alt="Keycloak" />
-</p>
-
-### Tools
-
-<p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white" alt="DBeaver" />
-  <img src="https://img.shields.io/badge/Apache%20Superset-20A7C9?style=flat-square&logo=apachesuperset&logoColor=white" alt="Apache Superset" />
-  <img src="https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white" alt="Metabase" />
-  <img src="https://img.shields.io/badge/Retool-3D3D3D?style=flat-square&logo=retool&logoColor=white" alt="Retool" />
-</p>
-
-### CI/CD
-
-<p align="left">
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="Argo CD" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" alt="Datadog" />
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" alt="Sentry" />
 </p>
 
-### AI
+<!-- ### AI
 
 <p align="left">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
@@ -115,12 +92,17 @@ quietly move hundreds of thousands of payloads a day without waking anyone up at
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
 </p>
 
-### Observability
+### Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" alt="Datadog" />
-  <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" alt="Sentry" />
-</p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white" alt="DBeaver" />
+  <img src="https://img.shields.io/badge/Apache%20Superset-20A7C9?style=flat-square&logo=apachesuperset&logoColor=white" alt="Apache Superset" />
+  <img src="https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white" alt="Metabase" />
+  <img src="https://img.shields.io/badge/Retool-3D3D3D?style=flat-square&logo=retool&logoColor=white" alt="Retool" />
+</p> -->
 
 ## Certifications
 
