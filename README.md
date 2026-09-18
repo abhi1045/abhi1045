@@ -8,14 +8,24 @@
   <a href="mailto:abhi.rojatkar@gmail.com?subject=Hey!"><img src="https://img.shields.io/badge/Gmail-abhi.rojatkar@gmail.com-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white" alt="Mail" /></a>
 </p>
 
-<h3 align="center">Software Engineer | Distributed Systems · Cloud · RAG/LLMs</h3>
+<h3 align="center">Backend & Distributed Systems Engineer · Cloud Infrastructure · RAG / LLM Platforms</h3>
 
-## About Me
+<p align="center">
+  I design backend systems that stay fast, observable, and cheap to run at scale.
+</p>
 
-- 🔭 Building scalable APIs, distributed systems, and AI-driven platforms
-- 💼 5+ years in cloud-native platforms and event-driven architectures
-- 🌱 Backend, system design, and cloud infra with **Python**, **AWS**, and **GCP**
-- 💬 Ask me about **FastAPI, microservices, Terraform, Docker/K8s, REST APIs, GraphQL, LangChain/RAG**
+## What I Do
+
+I build **distributed, event-driven backends** in Python on AWS and GCP — the kind of systems that
+quietly move hundreds of thousands of payloads a day without waking anyone up at 3am.
+
+- ⚙️ **Async infrastructure at scale** — Celery + Redis pipelines with circuit breakers and distributed locks, processing **200K+ payloads/day** across microservices at **99.9% reliability**
+- ☁️ **Cloud & cost engineering** — Terraform-driven infrastructure across ECS and RDS, cutting cloud spend by **30%** with no availability tradeoff
+- 📊 **Observability by default** — Datadog APM and Sentry instrumentation that cut latency **30%** and mean-time-to-detection **50%**
+- 🔌 **API architecture** — unified GraphQL layers, multi-cloud storage abstractions, and REST services replacing redundant cross-service calls
+- 🤖 **AI systems** — RAG pipelines with vector search, LLM integration, and NLP data extraction over millions of records
+
+## Tech Stack
 
 ### Languages
 
@@ -76,6 +86,17 @@
   <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" alt="Pinecone" />
 </p>
 
+### Architecture
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Microservices-0F766E?style=flat-square&logo=apachekafka&logoColor=white" alt="Microservices" />
+  <img src="https://img.shields.io/badge/Event--Driven-6D28D9?style=flat-square&logo=apacheairflow&logoColor=white" alt="Event-Driven" />
+  <img src="https://img.shields.io/badge/System%20Design-1F2937?style=flat-square&logo=buffer&logoColor=white" alt="System Design" />
+  <img src="https://img.shields.io/badge/OAuth2-EB5424?style=flat-square&logo=auth0&logoColor=white" alt="OAuth2" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white" alt="Keycloak" />
+</p>
+
 ### Tools
 
 <p align="left">
@@ -112,26 +133,23 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" alt="Datadog" />
   <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" alt="Sentry" />
-  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
 </p>
 
 ## GitHub Stats
 
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=abhi1045&show_icons=true&locale=en&layout=compact)](https://abhi1045.github.io/)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhi1045&show_icons=true&locale=en)](https://abhi1045.github.io/)
-
-## Consistency is key ✨
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi1045" alt="GitHub streak for abhi1045" />
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abhi1045&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi1045&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi1045-urbint" alt="GitHub streak for abhi1045-urbint" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi1045&hide_border=true&theme=tokyonight" alt="GitHub streak" />
 </p>
 
-## Talk is cheap, show me the code ✅
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi1045&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity" />
+</p>
 
-![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhi1045&theme=dracula)
-
-![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhi1045-urbint&theme=dracula)
+<p align="center">
+  <i>Open to conversations about backend architecture, scaling, and applied AI.</i>
+</p>
