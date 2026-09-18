@@ -1,12 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=abhi1045&label=Profile%20views&color=0e75b6&style=flat" alt="abhi1045" /> </p>
 
-# <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px"> Hi there
-
-<h1 style="text-align: center;">
-  <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;Abhijeet+Rojatkar" alt="Title GitHub Readme" />
-  </a>
-</h1>
+# <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px"> Hi, I'm Abhijeet
 
 <p align="center">
   <a href="https://abhi1045.github.io"><img src="https://img.shields.io/badge/Website-abhi1045.github.io-informational?style=flat-square&color=00ADB5&logo=about.me&logoColor=white" alt="Website" /></a>
