@@ -52,7 +52,7 @@ quietly move hundreds of thousands of payloads a day without waking anyone up at
   <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" alt="OpenAPI" />
 </p>
 
-### Cloud Services
+### Cloud
 
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
@@ -121,8 +121,15 @@ quietly move hundreds of thousands of payloads a day without waking anyone up at
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" alt="Datadog" />
   <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" alt="Sentry" />
 </p>
-<!-- 
-## GitHub Stats
+
+## Certifications
+
+- [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LUWN6BKFRKTN) — IBM / Coursera
+- [Ultimate AWS Certified Cloud Practitioner](https://www.udemy.com/certificate/UC-8937c500-4b07-4738-93f3-1b22b3710bc3/) — Udemy
+- [SQL & PostgreSQL for Beginners: Become an SQL Expert](https://www.udemy.com/certificate/UC-bb6ac72f-3a8d-43b3-8b97-8308d08c7bee/) — Udemy
+- [Absolute Beginners | Python Beginner to Pro](https://www.udemy.com/certificate/UC-044fe602-fa34-425b-afb2-ef36ada86b33/) — Udemy
+
+<!-- ## GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=abhi1045&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub stats" />
