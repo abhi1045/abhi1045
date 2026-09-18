@@ -108,6 +108,9 @@ quietly move hundreds of thousands of payloads a day without waking anyone up at
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white" alt="DBeaver" />
+  <img src="https://img.shields.io/badge/Apache%20Superset-20A7C9?style=flat-square&logo=apachesuperset&logoColor=white" alt="Apache Superset" />
+  <img src="https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white" alt="Metabase" />
+  <img src="https://img.shields.io/badge/Retool-3D3D3D?style=flat-square&logo=retool&logoColor=white" alt="Retool" />
 </p>
 
 ### CI/CD
