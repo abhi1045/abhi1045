@@ -1,4 +1,4 @@
-<img align="left" src="https://komarev.com/ghpvc/?username=abhi1045&label=Profile%20views&color=0e75b6&style=flat" alt="abhi1045" />
+<img align="right" src="https://komarev.com/ghpvc/?username=abhi1045&label=Profile%20views&color=0e75b6&style=flat" alt="abhi1045" />
 
 # <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px"> Hi, I'm Abhijeet
 
