@@ -54,27 +54,9 @@ quietly move hundreds of thousands of payloads a day without waking anyone up at
 
 ### Cloud Services
 
-**AWS**
-
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="EC2" />
-  <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="Lambda" />
-  <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazonwebservices&logoColor=white" alt="S3" />
-  <img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonwebservices&logoColor=white" alt="RDS" />
-  <img src="https://img.shields.io/badge/ECS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="ECS" />
-  <img src="https://img.shields.io/badge/SQS-FF4F8B?style=flat-square&logo=amazonwebservices&logoColor=white" alt="SQS" />
-  <img src="https://img.shields.io/badge/EventBridge-FF4F8B?style=flat-square&logo=amazonwebservices&logoColor=white" alt="EventBridge" />
-  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazonwebservices&logoColor=white" alt="CloudWatch" />
-  <img src="https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazonwebservices&logoColor=white" alt="IAM" />
-</p>
-
-**GCP**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/GKE-4285F4?style=flat-square&logo=googlekubernetesengine&logoColor=white" alt="GKE" />
-  <img src="https://img.shields.io/badge/Cloud%20SQL-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Cloud SQL" />
-  <img src="https://img.shields.io/badge/Cloud%20Storage-4285F4?style=flat-square&logo=googlecloudstorage&logoColor=white" alt="Cloud Storage" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP" />
 </p>
 
 ### Databases
