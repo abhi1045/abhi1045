@@ -89,6 +89,7 @@ quietly move hundreds of thousands of payloads a day without waking anyone up at
 ### Architecture
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
   <img src="https://img.shields.io/badge/Microservices-0F766E?style=flat-square&logo=apachekafka&logoColor=white" alt="Microservices" />
   <img src="https://img.shields.io/badge/Event--Driven-6D28D9?style=flat-square&logo=apacheairflow&logoColor=white" alt="Event-Driven" />
   <img src="https://img.shields.io/badge/System%20Design-1F2937?style=flat-square&logo=buffer&logoColor=white" alt="System Design" />
@@ -134,7 +135,7 @@ quietly move hundreds of thousands of payloads a day without waking anyone up at
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" alt="Datadog" />
   <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" alt="Sentry" />
 </p>
-
+<!-- 
 ## GitHub Stats
 
 <p align="center">
@@ -148,7 +149,7 @@ quietly move hundreds of thousands of payloads a day without waking anyone up at
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi1045&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity" />
-</p>
+</p> -->
 
 <p align="center">
   <i>Open to conversations about backend architecture, scaling, and applied AI.</i>
